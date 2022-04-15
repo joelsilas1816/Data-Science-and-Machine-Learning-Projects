@@ -15,5 +15,8 @@
 1. Prediction of students' score based on number of hours of study
 2. Detection of Parkinson's Disease
 3. Fake News Detection
+4. Best ad prediction by UCB
+5. Best ad prediction by Thompson Sampling
+6. Chatbot
 
 ### May the expierence to work in these fields bring immense pleasure day after day.
